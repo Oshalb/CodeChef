@@ -4,4 +4,5 @@ Factorial - https://www.codechef.com/problems/FCTRL
 Prime Generator - https://www.codechef.com/problems/PRIME1  
 Racing Horses - https://www.codechef.com/problems/HORSES  
 Uncle Johny - https://www.codechef.com/problems/JOHNY  
-Cleaning Up - https://www.codechef.com/problems/CLEANUP
+Cleaning Up - https://www.codechef.com/problems/CLEANUP  
+Coin Flip - https://www.codechef.com/problems/CONFLIP
