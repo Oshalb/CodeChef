@@ -6,4 +6,5 @@ Racing Horses - https://www.codechef.com/problems/HORSES
 Uncle Johny - https://www.codechef.com/problems/JOHNY  
 Cleaning Up - https://www.codechef.com/problems/CLEANUP  
 Coin Flip - https://www.codechef.com/problems/CONFLIP  
-Chef and Notebooks - https://www.codechef.com/problems/CNOTE
+Chef and Notebooks - https://www.codechef.com/problems/CNOTE  
+Transform the Expression - https://www.codechef.com/problems/ONP
