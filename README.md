@@ -11,4 +11,5 @@ Transform the Expression - https://www.codechef.com/problems/ONP
 Caravans - https://www.codechef.com/problems/CARVANS  
 Count Substring - https://www.codechef.com/problems/CSUB  
 Jewels and Stones - https://www.codechef.com/problems/STONES  
-The Minimum Number of Moves - https://www.codechef.com/problems/SALARY
+The Minimum Number of Moves - https://www.codechef.com/problems/SALARY  
+Maximum Weight Difference - https://www.codechef.com/problems/MAXDIFF
