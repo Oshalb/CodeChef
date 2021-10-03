@@ -13,4 +13,5 @@ Count Substring - https://www.codechef.com/problems/CSUB
 Jewels and Stones - https://www.codechef.com/problems/STONES  
 The Minimum Number of Moves - https://www.codechef.com/problems/SALARY  
 Maximum Weight Difference - https://www.codechef.com/problems/MAXDIFF  
-Paying Up - https://www.codechef.com/problems/MARCHA1
+Paying Up - https://www.codechef.com/problems/MARCHA1  
+Nuclear Reactors - https://www.codechef.com/problems/NUKES
