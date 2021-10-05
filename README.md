@@ -15,4 +15,5 @@ The Minimum Number of Moves - https://www.codechef.com/problems/SALARY
 Maximum Weight Difference - https://www.codechef.com/problems/MAXDIFF  
 Paying Up - https://www.codechef.com/problems/MARCHA1  
 Nuclear Reactors - https://www.codechef.com/problems/NUKES  
-Chef and Feedback - https://www.codechef.com/problems/ERROR
+Chef and Feedback - https://www.codechef.com/problems/ERROR  
+Discrepancies in the Voters List - https://www.codechef.com/problems/VOTERS
