@@ -16,4 +16,5 @@ Maximum Weight Difference - https://www.codechef.com/problems/MAXDIFF
 Paying Up - https://www.codechef.com/problems/MARCHA1  
 Nuclear Reactors - https://www.codechef.com/problems/NUKES  
 Chef and Feedback - https://www.codechef.com/problems/ERROR  
-Discrepancies in the Voters List - https://www.codechef.com/problems/VOTERS
+Discrepancies in the Voters List - https://www.codechef.com/problems/VOTERS  
+Dividing Stamps - https://www.codechef.com/problems/DIVIDING
