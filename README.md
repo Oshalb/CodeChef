@@ -20,4 +20,5 @@ Discrepancies in the Voters List - https://www.codechef.com/problems/VOTERS
 Dividing Stamps - https://www.codechef.com/problems/DIVIDING  
 Little Elephant and Permutations - https://www.codechef.com/problems/LEPERMUT  
 Chopsticks - https://www.codechef.com/problems/TACHSTCK  
-Chef and The Right Triangles - https://www.codechef.com/problems/RIGHTRI
+Chef and The Right Triangles - https://www.codechef.com/problems/RIGHTRI  
+Arranging Cup-cakes - https://www.codechef.com/problems/RESQ
