@@ -22,4 +22,5 @@ Little Elephant and Permutations - https://www.codechef.com/problems/LEPERMUT
 Chopsticks - https://www.codechef.com/problems/TACHSTCK  
 Chef and The Right Triangles - https://www.codechef.com/problems/RIGHTRI  
 Arranging Cup-cakes - https://www.codechef.com/problems/RESQ  
-Chef-Jumping - https://www.codechef.com/problems/OJUMPS
+Chef-Jumping - https://www.codechef.com/problems/OJUMPS  
+Counting Pretty Numbers - https://www.codechef.com/problems/NUM239
