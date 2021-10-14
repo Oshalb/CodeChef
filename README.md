@@ -23,4 +23,5 @@ Chopsticks - https://www.codechef.com/problems/TACHSTCK
 Chef and The Right Triangles - https://www.codechef.com/problems/RIGHTRI  
 Arranging Cup-cakes - https://www.codechef.com/problems/RESQ  
 Chef-Jumping - https://www.codechef.com/problems/OJUMPS  
-Counting Pretty Numbers - https://www.codechef.com/problems/NUM239
+Counting Pretty Numbers - https://www.codechef.com/problems/NUM239  
+Splitting Candies - https://www.codechef.com/problems/SPCANDY
