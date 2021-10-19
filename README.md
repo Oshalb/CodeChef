@@ -1,4 +1,4 @@
-Questions for Code Chef site.
+Questions for Code Chef site.  
 Ciel and A-B Problem - https://www.codechef.com/problems/CIELAB  
 Factorial - https://www.codechef.com/problems/FCTRL  
 Prime Generator - https://www.codechef.com/problems/PRIME1  
@@ -25,4 +25,5 @@ Arranging Cup-cakes - https://www.codechef.com/problems/RESQ
 Chef-Jumping - https://www.codechef.com/problems/OJUMPS  
 Counting Pretty Numbers - https://www.codechef.com/problems/NUM239  
 Splitting Candies - https://www.codechef.com/problems/SPCANDY  
-Number Game Revisited - https://www.codechef.com/problems/NUMGAME2
+Number Game Revisited - https://www.codechef.com/problems/NUMGAME2  
+Copy-Paste - https://www.codechef.com/problems/RRCOPY
