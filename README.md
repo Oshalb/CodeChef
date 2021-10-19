@@ -26,4 +26,5 @@ Chef-Jumping - https://www.codechef.com/problems/OJUMPS
 Counting Pretty Numbers - https://www.codechef.com/problems/NUM239  
 Splitting Candies - https://www.codechef.com/problems/SPCANDY  
 Number Game Revisited - https://www.codechef.com/problems/NUMGAME2  
-Copy-Paste - https://www.codechef.com/problems/RRCOPY
+Copy-Paste - https://www.codechef.com/problems/RRCOPY  
+Tourist Translations - https://www.codechef.com/problems/TOTR
