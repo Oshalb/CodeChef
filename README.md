@@ -29,4 +29,5 @@ Number Game Revisited - https://www.codechef.com/problems/NUMGAME2
 Copy-Paste - https://www.codechef.com/problems/RRCOPY  
 Tourist Translations - https://www.codechef.com/problems/TOTR  
 Your Name is Mine - https://www.codechef.com/problems/NAME2  
-Processing a string - https://www.codechef.com/problems/KOL15A
+Processing a string - https://www.codechef.com/problems/KOL15A  
+Subtraction Game 1 - https://www.codechef.com/problems/AMSGAME1
