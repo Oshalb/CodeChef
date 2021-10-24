@@ -30,4 +30,5 @@ Copy-Paste - https://www.codechef.com/problems/RRCOPY
 Tourist Translations - https://www.codechef.com/problems/TOTR  
 Your Name is Mine - https://www.codechef.com/problems/NAME2  
 Processing a string - https://www.codechef.com/problems/KOL15A  
-Subtraction Game 1 - https://www.codechef.com/problems/AMSGAME1
+Subtraction Game 1 - https://www.codechef.com/problems/AMSGAME1  
+Magic Pairs - https://www.codechef.com/problems/ALEXNUMB
