@@ -32,4 +32,5 @@ Your Name is Mine - https://www.codechef.com/problems/NAME2
 Processing a string - https://www.codechef.com/problems/KOL15A  
 Subtraction Game 1 - https://www.codechef.com/problems/AMSGAME1  
 Magic Pairs - https://www.codechef.com/problems/ALEXNUMB  
-Little Elephant and Bombs - https://www.codechef.com/problems/LEBOMBS
+Little Elephant and Bombs - https://www.codechef.com/problems/LEBOMBS  
+Divide the Cake - https://www.codechef.com/problems/ANUDTC
