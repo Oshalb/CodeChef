@@ -34,4 +34,6 @@ Subtraction Game 1 - https://www.codechef.com/problems/AMSGAME1
 Magic Pairs - https://www.codechef.com/problems/ALEXNUMB  
 Little Elephant and Bombs - https://www.codechef.com/problems/LEBOMBS  
 Divide the Cake - https://www.codechef.com/problems/ANUDTC  
-Compilers and parsers - https://www.codechef.com/problems/COMPILER
+Compilers and parsers - https://www.codechef.com/problems/COMPILER  
+Walk on the Axis - https://www.codechef.com/problems/ANUWTA  
+Suraj goes Shopping - https://www.codechef.com/problems/ANUBTG
